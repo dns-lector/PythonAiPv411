@@ -10,4 +10,4 @@
 4. Встановлюємо пакети (При включеному оточенні)
    > pip install jupyter
 5. Запускаємо робочий сервер
-   > jupyter
+   > jupyter notebook
