@@ -1,0 +1,51 @@
+Product,Category,Price,Quantity
+Laptop,Electronics,1200,10
+Smartphone,Electronics,800,25
+Tablet,Electronics,450,15
+Monitor,Electronics,300,12
+Keyboard,Accessories,50,50
+Mouse,Accessories,30,60
+Printer,Office Equipment,150,8
+Scanner,Office Equipment,200,6
+Webcam,Accessories,70,20
+Headphones,Audio,120,30
+Speaker,Audio,90,18
+Router,Networking,110,14
+SSD,Storage,100,40
+Hard Drive,Storage,80,35
+USB Flash Drive,Storage,20,100
+Power Bank,Accessories,40,45
+Smartwatch,Wearables,250,22
+Camera,Photography,700,5
+Microphone,Audio,130,16
+Projector,Electronics,500,4
+Graphics Card,Computer Components,600,7
+Motherboard,Computer Components,220,9
+Processor,Computer Components,350,11
+RAM,Computer Components,140,28
+Cooling Fan,Computer Components,35,55
+Desk Lamp,Office Supplies,25,70
+Office Chair,Furniture,180,13
+Standing Desk,Furniture,450,8
+Notebook,Office Supplies,5,120
+Pen Set,Office Supplies,15,150
+Backpack,Accessories,60,25
+External SSD,Storage,180,17
+Docking Station,Accessories,160,10
+Network Switch,Networking,120,12
+Cable Organizer,Accessories,18,80
+Wireless Charger,Accessories,45,33
+Bluetooth Adapter,Accessories,25,44
+Gaming Mouse,Gaming,75,27
+Gaming Keyboard,Gaming,95,21
+VR Headset,Gaming,400,6
+Smart TV,Electronics,900,9
+Streaming Device,Electronics,60,19
+Fitness Tracker,Wearables,140,31
+E-Reader,Electronics,130,24
+Drone,Photography,850,3
+Action Camera,Photography,320,14
+Tripod,Photography,55,26
+Ring Light,Photography,40,38
+NAS Storage,Storage,600,5
+Mini PC,Computer Components,500,7
