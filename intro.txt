@@ -13,12 +13,19 @@
      > pip install pandas
       > pip install matplotlib
        > pip install -U scikit-learn
+        > pip install torch
 4.1. Збираємо дані про всі підключені пакети 
    > pip freeze > deps.txt    
-   це дає можливість у подальшому замість окермого встановлення 
+   це дає можливість у подальшому замість окремого встановлення 
    пакетів один за іншим зазначити файл з їх переліком
    > pip install -r deps.txt
 5. Запускаємо робочий сервер
    > jupyter notebook
    або 
    > jupyter lab
+
+
+Д.З. Перцептрон.
+Скласти таблиці навчання перцептрону для виконання ним операції AND
+Схема перцептрона та зразок таблиці наведено у файлі 
+https://docs.google.com/document/d/1otbz7-Ts35xIxFrWOxFWg7dt2Mw5JLUUMDgXdNBV3do/edit?usp=sharing
