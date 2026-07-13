@@ -15,6 +15,8 @@
        > pip install -U scikit-learn
         > pip install torch
          > pip install torchvision
+          > pip install nltk
+          
 4.1. Збираємо дані про всі підключені пакети 
    > pip freeze > deps.txt    
    це дає можливість у подальшому замість окремого встановлення 
